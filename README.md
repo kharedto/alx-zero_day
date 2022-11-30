@@ -1,1 +1,1 @@
-All about Github Sessions
+All about Github Sessions, to update from Github
