@@ -1,1 +1,1 @@
-My readme
+All about Github Sessions
